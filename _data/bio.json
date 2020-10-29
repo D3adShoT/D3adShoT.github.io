@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Agraj Naman Mishra",
+    "label": "Software Engineer",
+    "picture": "https://techfolios.github.io/template/images/busP.png",
+    "email": "agrajnaman1@gmail.com",
+    "phone": "+91-9455146488",
+    "website": "https://d3adshot.github.io",
+    "summary": "I am working as a fresher software professional at Capgemini India.Currently Enrolled as a Salesforce Developer. Completed my B.Tech from VIT Chennai in May,2020. I was introduced with CRM and its indulgement to the full stack ways that I was already actually interested in. So I am looking my future as a Developer in the same.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,57 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "D3adShot",
+        "url": "https://github.com/D3adShoT"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "agrajnaman",
+        "url": "https://www.linkedin.com/in/agrajnaman"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ANM1862",
+        "url": "https://twitter.com/ANM1862"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "agraj_naman",
+        "url": "http://instagram.com/agraj_naman"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Full Stack Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "JS",
+        "HTML",
+        "Bootstrap",
+        "CSS",
+        "ReactJS",
+        "AngularJS",
+        "NodeJS",
+        "Polymer"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Salesforce",
+      "keywords": [
+        "CRM",
+        "Salesforce administrator",
+        "Salesforce Developer",
+        "APEX",
+        "Vlocity framework"
+      ]
+    },
+    {
+      "name": "Machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Internetwork Security",
       "keywords": [
       ]
     }
@@ -59,20 +75,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Advance",
       "keywords": [
         "C",
         "C++",
         "Java",
+        "Python",
+        "Apex",
+        "Django",
+        "Flask",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "AngularJS",
+        "NodeJS",
+        "ReactJS",
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
+      "keywords":
+        "Windows",[
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
@@ -83,81 +107,60 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Vellore Institure of technology, Chennai",
+      "area": "Computer Science (May, 2020)",
+      "studyType": "B.Tech",
+      "startDate": "2016-05-02",
+      "endDate": "2020-05-02",
+      "gpa": "7.99",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Aloki Technologies",
       "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "website": "https://alokitechnologies.com/",
+      "startDate": "2019-06-28",
+      "endDate": "2019-07-30",
+      "summary": "Worked as web developer intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learn and oversee official company project",
+        "Completing daily and weekly perks for internship completion"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Capgemini India",
+      "position": "Senior Analyst Intern",
+      "website": "https://www.capgemini.com/",
+      "startDate": "2020-01-08",
+      "endDate": "2020-04-07",
+      "summary": "Interned for full stack development along with understanding CRM",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Daily sessions of training on several full stack technologies and basics",
+        "A complete overview and exposure towards future in Salesforce ecosystem"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Capgemini India",
+      "website": "https://www.capgemini.com/",
+      "position": "Senior Analyst",
+      "startDate": "2020-09-22",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Working as a software developer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "VITEE- Scholarship",
+      "date": "2016-2020",
+      "awarder": "VIT chennai",
+      "summary": "Scholarships awarded for Scoring below A.I.R 20,000 in entrance Exam"
     }
   ],
   "references": [
